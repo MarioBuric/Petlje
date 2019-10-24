@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\buricmarioPetlje\buricmarioPetlje\bin\Debug\buricmarioPetlje.exe.config
+C:\Users\3.D\source\repos\buricmarioPetlje\buricmarioPetlje\bin\Debug\buricmarioPetlje.exe
+C:\Users\3.D\source\repos\buricmarioPetlje\buricmarioPetlje\bin\Debug\buricmarioPetlje.pdb
+C:\Users\3.D\source\repos\buricmarioPetlje\buricmarioPetlje\obj\Debug\buricmarioPetlje.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\buricmarioPetlje\buricmarioPetlje\obj\Debug\buricmarioPetlje.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\buricmarioPetlje\buricmarioPetlje\obj\Debug\buricmarioPetlje.exe
+C:\Users\3.D\source\repos\buricmarioPetlje\buricmarioPetlje\obj\Debug\buricmarioPetlje.pdb
